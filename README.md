@@ -42,20 +42,7 @@ I like working across **frontend, backend, and mobile development**, and I'm alw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udit063&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udit063&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Udit063&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Udit063/Udit063/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
