@@ -42,7 +42,8 @@ I like working across **frontend, backend, and mobile development**, and I'm alw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Udit063&hide_border=true"/>
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Udit063&hide_border=true"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Udit063&hide_border=true" />
 </p>
 
 ---
