@@ -9,6 +9,8 @@ Software Developer building web and mobile applications with **React, Node.js, a
 I enjoy building scalable applications, clean user interfaces, and reliable backend systems.
 I like working across **frontend, backend, and mobile development**, and I'm always exploring new technologies to improve how products are designed and built.
 
+🌐 **Portfolio:** https://uditkapoor.in/
+
 ---
 
 ## 🛠 Tech Stack
