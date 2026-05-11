@@ -13,6 +13,19 @@ I like working across **frontend, backend, and mobile development**, and I'm alw
 
 ---
 
+## 🚀 Currently Building
+
+### BuildTrail
+A platform for developers to share their startup and coding journey publicly through updates, milestones, and progress timelines.
+
+- Share what you're building in public
+- Post product updates and milestones
+- Create a developer profile around your journey
+
+🌐 https://www.buildtrail.app
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages
