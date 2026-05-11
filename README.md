@@ -9,7 +9,7 @@ Software Developer building web and mobile applications with **React, Node.js, a
 I enjoy building scalable applications, clean user interfaces, and reliable backend systems.
 I like working across **frontend, backend, and mobile development**, and I'm always exploring new technologies to improve how products are designed and built.
 
-🌐 **Portfolio:** https://uditkapoor.in/
+🌐 **Portfolio:** [uditkapoor.in](https://uditkapoor.in/)
 
 ---
 
@@ -22,7 +22,7 @@ A platform for developers to share their startup and coding journey publicly thr
 - Post product updates and milestones
 - Create a developer profile around your journey
 
-🌐 https://www.buildtrail.app
+🌐 [buildtrail.app](https://www.buildtrail.app)
 
 ---
 
